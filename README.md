@@ -36,6 +36,21 @@ WebGL（全写Web Graphics Library）是一种3D绘图协议，可利用**canvas
 
 *  [*ECharts* Demo](http://www.echartsjs.com/gallery/)
 
+### *HT* *for* *Web* 
+*  [*ht* *for* *web*官网](http://www.hightopo.com/cn-index.html)
+>ht是基于HTML5标准的企业应用图形界面一站式解决方案， 其包含通用组件、拓扑组件和3D渲染引擎等丰富的图形界面开发类库，提供了完全基于HTML5的矢量编辑器、拓扑编辑器及 3D场景编辑器等多套可视化设计工具，和完善的类库开发手册、工具使用手册、及针对HTML5技术如何进行大规模团队开发的客户深度培训手册。”
+<meta charset="utf-8">
+
+*   入门手册 [入门手册 - HT for Web](http://www.hightopo.com/guide/guide/core/beginners/ht-beginners-guide.html)
+*   矢量手册 [矢量手册 - HT for Web](http://www.hightopo.com/guide/guide/core/vector/ht-vector-guide.html)
+*   数据绑定 [数据绑定手册 - HT for Web](http://www.hightopo.com/guide/guide/core/databinding/ht-databinding-guide.html)
+*   数据模型 [数据模型手册 - HT for Web](http://www.hightopo.com/guide/guide/core/datamodel/ht-datamodel-guide.html)
+
+学习三维的话,可以关注以下几点
+
+*   3D 入门手册 [3D 手册 - HT for Web](http://www.hightopo.com/guide/guide/core/3d/ht-3d-guide.html)
+*   建模手册 [建模手册 - HT for Web](http://www.hightopo.com/guide/guide/plugin/modeling/ht-modeling-guide.html)
+*   OBJ 导入 [OBJ手册 - HT for Web](http://www.hightopo.com/guide/guide/plugin/obj/ht-obj-guide.html)
 
 
 ## 学习方法
