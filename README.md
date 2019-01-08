@@ -73,7 +73,10 @@ WebGL（全写Web Graphics Library）是一种3D绘图协议，可利用**canvas
 
 ### 可视化-热力图
 
-# [pa7](https://github.com/pa7)/**[heatmap.js](https://github.com/pa7/heatmap.js)**
+* [pa7](https://github.com/pa7)/**[heatmap.js](https://github.com/pa7/heatmap.js)**
+* website：https://www.patrick-wied.at/static/heatmapjs/
+
+
 
 ## 学习方法
 *  [如何系统的学习*three.js*? - 知乎](https://www.zhihu.com/question/36367846?from=profile_question_card)
