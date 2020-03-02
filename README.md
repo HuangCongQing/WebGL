@@ -70,6 +70,9 @@ WebGL（全写Web Graphics Library）是一种3D绘图协议，可利用**canvas
 *   建模手册 [建模手册 - HT for Web](http://www.hightopo.com/guide/guide/plugin/modeling/ht-modeling-guide.html)
 *   OBJ 导入 [OBJ手册 - HT for Web](http://www.hightopo.com/guide/guide/plugin/obj/ht-obj-guide.html)
 
+### G2
+
+[G2 4.0 正式版发布](https://www.yuque.com/antv/blog/g2-4.0-released)
 
 ### 可视化-热力图
 
