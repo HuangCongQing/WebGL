@@ -23,6 +23,8 @@ WebGL（全写Web Graphics Library）是一种3D绘图协议，可利用**canvas
 ```
 ![image.png](https://upload-images.jianshu.io/upload_images/4340772-934f74a820d743c6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+OpenGL自学网站：https://learnopengl-cn.github.io/
+
 
 ## 学习教程
 
