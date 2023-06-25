@@ -1,6 +1,6 @@
 # WebGL
 WebGL（全写Web Graphics Library）是一种3D绘图协议，可利用**canvas,three.js,ECharts**进行3D动态绘制，下为学习代码
-有任何问题，欢迎@[重庆](https://github.com/HuangCongQing)，交流讨论。
+有任何问题，欢迎@[双愚](https://github.com/HuangCongQing)，交流讨论。
 >其实三者是有联系的
 // HTML5 <canvas> 标签用于绘制图像（通过脚本，通常是 JavaScript）。
 // Threejs，一个用于在浏览器中绘制3D图像的WebGL第三方JS库,Threejs在底层其实还是调用html5中的canvas api来实现绘图的。
